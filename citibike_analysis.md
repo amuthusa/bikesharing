@@ -10,15 +10,15 @@
 
 #### Gender breakdown of bikeshare users in Newyork:
     
-   To start a business in Des Moines, Iowa it would be good idea to look at the population and the gender diversity of the city. Looking at the data of Des Moines during 2018 official report number of total population was 216,853 out of which close to 49% is Male and 51% is Female, comparing the same with Newyork report numbers from Citi Bikeshare is 48% Male and 52% Female. This gives an rough idea that similar gender diverisity between two cities.
+   To start a business in Des Moines, Iowa it would be good idea to look at the population and the gender diversity of the city. Looking at the data of Des Moines during 2018 official report number of total population was 216,853 out of which close to 49% is Male and 51% is Female, comparing the same with Newyork report numbers from Citi Bikeshare is 48% Male and 52% Female. This gives an rough idea that similar gender diverisity between two cities.![Gender breakdown of bikeshare users in Newyork](images/StoryPoint_1.png)
 
 #### Customer Type by Gender users of Citi Bike:
 
-   Looking at Citi Bikeshare's Customer and Subscribers data using the gender data it turns out the majority of the users of the citi bikeshare is Male. Subscribers data might elude us towards either locals or domestic tourists while the customers might be international tourists. Based on 2018 toursit data released from Newyork, it had 51 Million domestic tourist and 13 Million International tourists. Iowa's tourism seems to be booming based on 2016 data they had 13 Million Tourist.
+   Looking at Citi Bikeshare's Customer and Subscribers data using the gender data it turns out the majority of the users of the citi bikeshare is Male. Subscribers data might elude us towards either locals or domestic tourists while the customers might be international tourists. Based on 2018 toursit data released from Newyork, it had 51 Million domestic tourist and 13 Million International tourists. Iowa's tourism seems to be booming based on 2016 data they had 13 Million Tourist.![Customer Type by Gender users of Citi Bike](images/StoryPoint_2.png)
 
 #### Top Starting and Ending locations of citi bike users in Newyork:
 
-   Looking at the bike users data it seems dowtown seems to be popular location for both starting and ending locations. Seems people tend to ride bike in the downtown area to visit tourist spots or restaurants or for other activities. In the recent years Des Moines downtown has been more vibrant and popular tourist attraction with sports and other events during the summer months to attract domestic tourist.
+   Looking at the bike users data it seems dowtown seems to be popular location for both starting and ending locations. Seems people tend to ride bike in the downtown area to visit tourist spots or restaurants or for other activities. In the recent years Des Moines downtown has been more vibrant and popular tourist attraction with sports and other events during the summer months to attract domestic tourist.![Top Starting and Ending locations of citi bike users in Newyork](images/StoryPoint_3.png)
 
 #### Recommendations:
 
