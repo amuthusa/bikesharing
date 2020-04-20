@@ -30,5 +30,5 @@
 
 #### Recommendations:
 
-   Based on gender diversity and tourist data during summer months, both newyork and de moines seems to be popular destination for both local and domestic tourist. In the recent years Iowa seems to be catching with improving the facilities to attract tourists during summer months with vibrant downtown, event and activities. So starting bikeshare business like Citi bikeshare in Des Moines would be good idea to tap in both local and domestic tourist market. 
+   Based on gender diversity and tourist data during summer months, both newyork and de moines seems to be popular destination for both local and domestic tourist. In the recent years Iowa seems to be catching with improving the facilities to attract tourists during summer months with vibrant downtown, event and activities. So starting bikeshare business like Citi bikeshare in Des Moines would be good idea to tap in both local and domestic tourist market. [Link to Story](https://public.tableau.com/profile/ayyappa.muthusami#!/vizhome/DesMoinesBikesharebusinessidea/DesMoinesBikesharingidea?publish=yes)
 
