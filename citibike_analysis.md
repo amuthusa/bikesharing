@@ -16,6 +16,14 @@
 
    Looking at Citi Bikeshare's Customer and Subscribers data using the gender data it turns out the majority of the users of the citi bikeshare is Male. Subscribers data might elude us towards either locals or domestic tourists while the customers might be international tourists. Based on 2018 toursit data released from Newyork, it had 51 Million domestic tourist and 13 Million International tourists. Iowa's tourism seems to be booming based on 2016 data they had 13 Million Tourist.![Customer Type by Gender users of Citi Bike](images/StoryPoint_2.png)
 
+### Total and Average trip duration by Gender:
+
+    Closely looking at the data we could see Male riders did most of number of trips compared to Female riders. But Female riders average trip duration seems to be much more than the Male riders.![Total trip duration by Gender](images/StoryPoint_4.png) ![Average trip duration by Gender](images/StoryPoint_5.png)
+
+### August Peak Hours by Gender:
+
+    Looking at August one of the busy months in Summer, peak usage data shows the busiest times are from 8 in the morning till 8 in the evening. Also data shows there were more Male riders than the Female riders.![August Peak Hours by Gender](images/StoryPoint_6.png)
+
 #### Top Starting and Ending locations of citi bike users in Newyork:
 
    Looking at the bike users data it seems dowtown seems to be popular location for both starting and ending locations. Seems people tend to ride bike in the downtown area to visit tourist spots or restaurants or for other activities. In the recent years Des Moines downtown has been more vibrant and popular tourist attraction with sports and other events during the summer months to attract domestic tourist.![Top Starting and Ending locations of citi bike users in Newyork](images/StoryPoint_3.png)
